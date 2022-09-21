@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.1.1"
+  export = ["choreo_graphql"]
+  icon = "docs/icon.png"
+  keywords = ["Type/GraphQL","Category/Service","Internal/http"]
+  name = "choreo_graphql"
+  org = "marciomenezes"
+  version = "1.0.0"
+
